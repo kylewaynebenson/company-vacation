@@ -77,12 +77,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_posts\/2015-4-1-Youthful-Zest.html": {
-		"fileType": 8192,
+	"\/_posts\/2015-4-1-who-has-time.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
 		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-4-1-Youthful-Zest.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/_posts\/2015-4-1-who-has-time.md",
+		"outputAbbreviatedPath": "\/_posts\/2015-4-1-who-has-time.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -91,8 +94,8 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/_posts\/2015-4-1-Youthful-Zest.md",
 		"outputAbbreviatedPath": "\/_posts\/2015-4-1-Youthful-Zest.html",
 		"outputPathIsOutsideProject": 0,
@@ -161,15 +164,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/_sass\/style.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_sass\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/_sass\/style.scss": {
 		"createSourceMap": 0,
@@ -890,7 +884,7 @@
 	"lessStrictImports": 0,
 	"lessStrictMath": 0,
 	"lessStrictUnits": 0,
-	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathEnabled": 0,
 	"markdownAutoOutputPathFilenamePattern": "*.html",
 	"markdownAutoOutputPathRelativePath": "",
 	"markdownAutoOutputPathReplace1": "",
