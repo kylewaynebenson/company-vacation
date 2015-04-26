@@ -42,5 +42,5 @@ Sounds perfect
 Is that sexist?
 
 ###Demos
-April 11, 2015 — [download]({{ site.url }}/audio/150411_WhoHasTime.m4a)
-March 30, 2015 — [download]({{ site.url }}/audio/150330_WhoHasTime.m4a)
+* April 11, 2015 — [download]({{ site.url }}/audio/150411_WhoHasTime.m4a)
+* March 30, 2015 — [download]({{ site.url }}/audio/150330_WhoHasTime.m4a)
