@@ -1,0 +1,47 @@
+---
+layout: post
+title: Noodles & Company
+---
+
+###Lyrics
+
+Sitting at our booth on the south side,
+we'll make fun of our middle aged waiter.
+Criticizing others is one place we get along.
+Looking down mid-laugh, I see your eggs are
+scrambled and mine over easy.
+Kind of funny that we take our eggs like we take life.
+
+Nothing good ever happens
+at Noodles and Company.
+
+Girl I know you like the look of me,
+and I think that you're pretty fine,
+which is why you finally consented to that ring.
+We said to ourselves one day, 
+"hey this is the best that I may ever get." 
+Love's false dilemma is a rhetorical fallacy.
+
+Pray that diamond rings put
+wandering things at peace.
+Ha, Happy, Ha
+I'll believe it when I see it and not just on the TV set
+
+I sent an email asking for a sit down
+conversation all about the
+mortgage that you said would help you nest.
+Maybe that's too heavy, you're avoiding,
+so let's talk about the surface,
+last year's taxes, healthcare acts, Kanye."
+
+Once we're full, I'm sure
+that we could be happy.
+
+Ha, Happy, Ha
+I'll believe it when I see it and not just on the TV set
+Ha, Happy, Ha
+I'll believe it when I see it and I would love to be it.
+
+###Demos
+* Feb 7, 2015 — [download]({{ site.url }}/audio/1502_NoodlesCo.m4a)
+* Mar 30, 2015 — [download]({{ site.url }}/audio/150330_NoodlesCo.m4a)
