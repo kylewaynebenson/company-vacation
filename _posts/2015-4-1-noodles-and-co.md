@@ -44,4 +44,6 @@ I'll believe it when I see it and I would love to be it.
 
 ###Demos
 * Feb 7, 2015 — [download]({{ site.url }}/audio/1502_NoodlesCo.m4a)
+<audio src="{{ site.url }}/audio/1502_NoodlesCo.m4a" preload="auto" />
 * Mar 30, 2015 — [download]({{ site.url }}/audio/150330_NoodlesCo.m4a)
+<audio src="{{ site.url }}/audio/150330_NoodlesCo.m4a" preload="auto" />

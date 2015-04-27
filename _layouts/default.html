@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <!-- Created with Jekyll -->
   </head>
 
   <body>
@@ -46,5 +46,11 @@
     </div>
 
     {% include analytics.html %}
+  <script href="{{ site.url }}/_includes/audio.min.js"></script>
+  <script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+    </script>
   </body>
 </html>
