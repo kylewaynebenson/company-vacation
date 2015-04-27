@@ -34,4 +34,7 @@ Sure you have eggs but do you need my seed?
 Clap your hands with me if you hate technology?
 
 ###Demos
-* April 20, 2015 — [download]({{ site.url }}/audio/150420_Sedentary.mp3)
+* April 20, 2015 — [download]({{ site.url }}/audio/150420_Sedentary.mp3)  
+<audio controls>
+	<source src="{{ site.baseurl }}/audio/150420_Sedentary.mp3" type="audio/mpeg">
+</audio>

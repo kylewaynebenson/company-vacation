@@ -9,8 +9,8 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}/feed.xml" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll -->
   </head>
@@ -19,38 +19,38 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.url }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.url }}/">{{ site.name }}</a></h1>
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
           <nav>
-            <a href="{{ site.url }}/about">About</a>
+            <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
       </div>
     </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
+    <div class="page-content">
+      <div id="main" role="main" class="container">
+        {{ content }}
+      </div>
     </div>
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          <h5>It is the policy of Company to provide each full-time employee with vacation time on a periodic basis. </h5>
+          The amount of vacation to which an employee becomes entitled is determined by the employee’s length of service as of his or her employment anniversary date.  For full-time employees, vacation accrues as follows:
+          <ul>
+            <li>At the end of the first year of service, one week, or 40 hours, of vacation.</li>
+            <li>Two years or more but less than five years of service, two weeks, or 80 hours, of vacation per year.</li>
+            <li>Five years or more but less than 10 years of service, three weeks, or 120 hours, of vacation per year.</li>
+            <li>Ten years or more of service, four weeks, or 160 hours, of vacation per year.</li>
+          </ul>
         </footer>
       </div>
     </div>
 
     {% include analytics.html %}
-  <script href="{{ site.url }}/js/audio.min.js"></script>
-  <script>
-  audiojs.events.ready(function() {
-    var as = audiojs.createAll();
-  });
-    </script>
   </body>
 </html>
