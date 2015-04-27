@@ -37,4 +37,4 @@ This song never got discovered,
 And the girls always wanted my brother
 
 ###Demos
-April 11, 2015 — [download]({{ site.url }}/audio/150411_YouthfulZest.m4a)
+April 11, 2015 — [download]({{ site.url }}/audio/150411_YouthfulZest.mp3)
