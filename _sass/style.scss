@@ -276,6 +276,73 @@ footer {
   text-align: center;
 }
 
+.audiojs { margin: 15px 0px 20px;
+  width: 460px;
+  height: 36px;
+  background: #404040;
+  overflow: hidden;
+  font-family: monospace;
+  font-size: 12px;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #444), color-stop(0.5, #555), color-stop(0.51, #444), color-stop(1, #444));
+  audio {
+    width: 300px;
+    height: 30px;
+  }
+  .play-pause {
+    width: 25px;
+    height: 40px;
+    padding: 4px 6px;
+    margin: 0px;
+    float: left;
+    overflow: hidden;
+    border-right: 1px solid #000;
+  }
+  .scrubber {
+    position: relative;
+    float: left;
+    width: 280px;
+    background: #5a5a5a;
+    height: 14px;
+    margin: 10px;
+    border-top: 1px solid #3f3f3f;
+    border-left: 0px;
+    border-bottom: 0px;
+    overflow: hidden;
+  }
+  .time {
+    float: left;
+    height: 36px;
+    line-height: 36px;
+    margin: 0px 0px 0px 6px;
+    padding: 0px 6px 0px 12px;
+    border-left: 1px solid #000;
+    color: #ddd;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+    em {
+      padding: 0px 2px 0px 0px;
+      color: #f9f9f9;
+      font-style: normal;
+    }
+    strong {
+      padding: 0px 0px 0px 2px;
+      font-weight: normal;
+    }
+  }
+  .error-message {
+    float: left;
+    display: none;
+    margin: 0px 10px;
+    height: 36px;
+    width: 400px;
+    overflow: hidden;
+    line-height: 36px;
+    white-space: nowrap;
+    color: #fff;
+    text-overflow: ellipsis;
+  }
+
+ }
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
