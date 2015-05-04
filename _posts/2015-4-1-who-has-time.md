@@ -42,7 +42,7 @@ Sounds perfect
 Is that sexist?
 
 ###Demos
-* May 3, 2015 — [download]({{ site.baseurl }}/audio/150503_WhoHasTime.mp3) 
+* May 3, 2015 — [download]({{ site.baseurl }}/audio/150503_WhoHasTime.mp3)  
 <audio controls>
 	<source src="{{ site.baseurl }}/audio/150503_WhoHasTime.mp3" type="audio/mpeg">
 </audio>
