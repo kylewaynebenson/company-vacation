@@ -20,7 +20,7 @@ and I think that you're pretty fine,
 which is why you finally consented to that ring.  
 We said to ourselves one day,  
 "hey this is the best that I may ever get."  
-Love's false dilemma is a rhetorical fallacy.  
+False dilemma got the best of me.  
 
 Pray that diamond rings put  
 wandering things at peace.  
