@@ -65,6 +65,19 @@ body {
   padding: 0 10px;
   width: 100%; }
 
+.tabs {
+  color: #9b9b9b;
+  font-size: 12px;
+  display: none; }
+
+#toggle {
+  vertical-align: 6px;
+  margin-left: 10px;
+  border: 1px solid #eee;
+  background: #fff;
+  border-radius: 3px;
+  padding: 8px 10px; }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;

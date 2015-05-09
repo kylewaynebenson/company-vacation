@@ -5,28 +5,40 @@ title: Youthful Zest
 
 ###Lyrics
 
-Life~ older with each 9-5  
-Time~ by grace I am still alive  
-Hashtag blessed~ today this feeling is new.  
-Is it God~ or the taste of this Mountain Dew?  
+<span class="tabs">Am Em F B</span>
+
+Life older with each 9-5  
+Time by grace I am still alive  
+Hashtag blessed today this feeling is new.  
+Is it God or the taste of this Mountain Dew?  
+
+<span class="tabs">C G C7 F E7 F G A#7</span>
 
 Average, Impressive by low standards  
 Nothing proved, mostly meandered  
 A good neighbor, bad lover  
 
+<span class="tabs">C G C7 F E7 F G A#7</span>
+
 Never bowled above 160,  
 This song never got discovered,  
 And the girls always wanted my brother  
 
-Old~ I'm losing that youthful zest  
-Bald~ Swapping hair on my head for my chest  
-Sweaty palms~ at least some things stay the same  
-Redeemed~ by my limited internet fame.  
+<span class="tabs">Am Em F B</span>
+
+Old I'm losing that youthful zest  
+Bald Swapping hair on my head for my chest  
+Sweaty palms at least some things stay the same  
+Redeemed by my limited internet fame.  
+
+<span class="tabs">Am Em F B</span>
 
 Jared how many times have we been to taco bell?  
 Self image never improved by a corn shell,  
 How many bands have we started that failed?  
 On my grave: five foot ten, often emailed.  
+
+<span class="tabs">C G C7 F E7 F G A#7</span>
 
 Average, Impressive by low standards  
 Nothing proved, mostly meandered  

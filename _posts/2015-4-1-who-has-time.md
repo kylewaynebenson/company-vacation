@@ -5,6 +5,8 @@ title: Who Has Time
 
 ###Lyrics
 
+<span class="tabs">A D6sus2 F7 E</span>
+
 Wild fits of depression,
 Add that one day to hypertension,
 I should take that paid time off
@@ -13,12 +15,19 @@ Maybe join a gym,
 take up a hobby,
 Buy new clothes that fit me right
 
+<span class="tabs">A D A F#m</span>
+
 I don't need a lover
 who has time for that
 I don't have feelings
 Never can love enough
-Who has time
-Who has time
+
+<span class="tabs">D7 C#m Bm A</span>
+
+Who has time  
+Who has time  
+
+<span class="tabs">A D6sus2 F7 E</span>
 
 But I'm toward the future
 Life always seems to get better,
@@ -27,12 +36,19 @@ When you're white and middle class
 All my premium's paid
 My yoga instructor helps me breath
 
+<span class="tabs">A D A F#m</span>
+
 I don't need a lover
-But I need people
+I need people
 Women scare me
 Life wasn't meant for that
-Who has time for that
-Who has time for that
+
+<span class="tabs">D7 C#m Bm A</span>
+
+Who has time
+Who has time for all of that
+
+<span class="tabs">A Bm C#m D7 E7</span>
 
 One day I'll find a lover
 We'll sleep in different beds
