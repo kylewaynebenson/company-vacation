@@ -54,8 +54,6 @@ Once we're full, I'm sure
 that we could be happy.  
 
 Ha, Happy, Ha  
-I'll believe it when I see it and not just on the TV set  
-Ha, Happy, Ha  
 I'll believe it when I see it and I would love to be it.  
 
 ###Demos
